@@ -46,3 +46,4 @@ Quando você vir um mau comportamento, não responda. Isso incentiva o mau compo
 Vamos colaborar para garantir que a Comunidade do Java Noroeste seja um ambiente seguro e inclusivo, onde todos se sintam confortáveis para participar e sejam valorizados, respeitando o tempo e esforço de cada pessoa envolvida.
 
 ---
+![Java Noroeste](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSDMmEAE_sncLA09pWR3KE4kLrSO5eLNtrj3ZSC_4YVly8PxyPx481N8QwBX9v9LhoxeU&usqp=CAU)
