@@ -1,22 +1,22 @@
 # Código de conduta da comunidade Java Noroeste
 
 ### Visão Geral e Finalidade
-Um grupo que gosta de falar e espalhar o Java pela região Noroeste de São Paulo. Temos como objetivo o incentivo a programação, espalhar conhecimento e trocas de experiências. Ao participar desta Comunidade, você concorda com os termos deste Código de Conduta específico da Comunidade Java Noroeste.
+Um grupo que gosta de falar e espalhar a tecnologia Java pela região Noroeste de São Paulo. Temos como objetivo o incentivo a programação, espalhar conhecimento e trocas de experiências. Ao participar desta Comunidade, você concorda com os termos deste Código de Conduta específico da Comunidade Java Noroeste.
 
 #### Cidades 
 
-Votuporanga, São José do Rio Preto, Potirendaba, Fernandópolis, Mirassol, Presidente Prudente, Jales, Marília, Olímpia, Birigui, Barretos, Guaíra, Araçatuba, Tupã, Dracena, Valentim Gentil, Catanduva, entre outros municípios do noroeste paulista.
+Votuporanga, São José do Rio Preto, Potirendaba, Fernandópolis, Mirassol, Presidente Prudente, Jales, Marília, Olímpia, Birigui, Barretos, Guaíra, Araçatuba, Tupã, Dracena, Valentim Gentil, Catanduva, entre outros municípios do Brasil.
 
 #### Compromisso  |  Lutando por uma comunidade melhor
 
-Acreditamos que interagindo com empresas e universidades podemos mudar o panorama tecnológico de nossa região. Difundir o Java é também apoiar a prosperidade e inovação tecnológica.
+Acreditamos que interagindo com empresas, empreendedores, entusiastas e universidades podemos mudar o panorama tecnológico de nossa região. Difundir o Java é também apoiar a prosperidade e inovação tecnológica.
 
 
 ### Padrões
 
  Trate a comunidade Java Noroeste com respeito. Somos um recurso compartilhado para troca de habilidades, conhecimentos e interesses por meio de conversas contínuas.
 
-1.  Seja respeitoso: Trate todos os membros da comunidade com respeito, independentemente de sua origem étnica, gênero, orientação sexual, religião, habilidade ou qualquer outra característica pessoal.
+1.  Seja respeitoso: Trate todos os membros da comunidade com respeito, independentemente de sua origem étnica, gênero, orientação sexual, religião, habilidade, portador de necessidades especiais ou qualquer outra característica pessoal.
     
 2.  Mantenha um discurso civilizado: Promova um ambiente de discussão construtivo e cordial. Evite linguagem ofensiva, insultos pessoais e comportamentos hostis.
     
@@ -28,12 +28,12 @@ Acreditamos que interagindo com empresas e universidades podemos mudar o panoram
 5.  Cumpra as leis: Respeite as leis locais, nacionais e internacionais em todas as suas interações na comunidade Java Noroeste.
     
 
-Como Relatar: Se você testemunhar ou for vítima de qualquer violação do Código de Conduta, por favor, relate o incidente para os administradores da comunidade ou envie um e-mail para mercuriocfg@yahoo.com.br .Todos os relatos serão tratados com seriedade e confidencialidade.
+Como Relatar: Se você testemunhar ou for vítima de qualquer violação do Código de Conduta, por favor, relate o incidente para os administradores da comunidade ou envie um e-mail para javanoroeste@gmail.com . Todos os relatos serão tratados com seriedade e confidencialidade.
 
 
 ### Comportamento Inaceitável
 
-1.  Discriminação, assédio ou qualquer forma de intimidação com base em raça, cor, religião, gênero, identidade de gênero, orientação sexual, origem étnica, deficiência ou qualquer outra característica protegida por lei.
+1.  Discriminação, assédio ou qualquer forma de intimidação com base em raça, cor, religião, gênero, identidade de gênero, orientação sexual, origem étnica, portador de necessidades especiais ou qualquer outra característica protegida por lei.
 2.  Uso de linguagem ofensiva, insultos pessoais ou qualquer forma de comportamento hostil que prejudique a experiência dos outros membros.
 3.  Divulgação de informações pessoais sem consentimento prévio.
 4.  Qualquer forma de comportamento que viole as leis locais, nacionais ou internacionais.
