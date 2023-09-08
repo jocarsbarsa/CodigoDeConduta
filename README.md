@@ -39,7 +39,7 @@ Acreditamos que interagindo com empresas, empreendedores, entusiastas e universi
 ## Como Relatar
 Se você testemunhar ou for vítima de qualquer violação do Código de Conduta, por favor, relate o incidente para os administradores da comunidade ou envie um e-mail para [javanoroeste@gmail.com](mailto:javanoroeste@gmail.com). Todos os relatos serão tratados com seriedade e confidencialidade.
 
-## O que Acontecerá se as Pessoas que Quebrarem O Código de Conduta
+## O que Acontecerá se as Pessoas Quebrarem O Código de Conduta
 Após a notificação de uma violação, os administradores da comunidade irão investigar o incidente de forma imparcial e tomar as medidas apropriadas. Dependendo da gravidade da violação, as consequências podem variar desde uma advertência formal até a exclusão permanente da comunidade.
 
 ###  [Contato com a equipe Java Noroeste](https://javanoroeste.com.br)
