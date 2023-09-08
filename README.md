@@ -3,7 +3,7 @@
 ### Visão Geral e Finalidade
 Um grupo que gosta de falar e espalhar a tecnologia Java pela região Noroeste de São Paulo. Temos como objetivo o incentivo a programação, espalhar conhecimento e trocas de experiências. Ao participar desta Comunidade, você concorda com os termos deste Código de Conduta específico da Comunidade Java Noroeste.
 
-#### Cidades 
+#### Abrangência Geográfica 
 
 Votuporanga, São José do Rio Preto, Potirendaba, Fernandópolis, Mirassol, Presidente Prudente, Jales, Marília, Olímpia, Birigui, Barretos, Guaíra, Araçatuba, Tupã, Dracena, Valentim Gentil, Catanduva, entre outros municípios do Brasil.
 
@@ -16,6 +16,8 @@ Acreditamos que interagindo com empresas, empreendedores, entusiastas e universi
 
  Trate a comunidade Java Noroeste com respeito. Somos um recurso compartilhado para troca de habilidades, conhecimentos e interesses por meio de conversas contínuas.
 
+### Comportamento Esperado
+
 1.  Seja respeitoso: Trate todos os membros da comunidade com respeito, independentemente de sua origem étnica, gênero, orientação sexual, religião, habilidade, portador de necessidades especiais ou qualquer outra característica pessoal.
     
 2.  Mantenha um discurso civilizado: Promova um ambiente de discussão construtivo e cordial. Evite linguagem ofensiva, insultos pessoais e comportamentos hostis.
@@ -26,10 +28,6 @@ Acreditamos que interagindo com empresas, empreendedores, entusiastas e universi
 4.  Mantenha a privacidade: Não divulgue informações pessoais de outros membros da comunidade sem o consentimento prévio deles.
     
 5.  Cumpra as leis: Respeite as leis locais, nacionais e internacionais em todas as suas interações na comunidade Java Noroeste.
-    
-
-Como Relatar: Se você testemunhar ou for vítima de qualquer violação do Código de Conduta, por favor, relate o incidente para os administradores da comunidade ou envie um e-mail para javanoroeste@gmail.com . Todos os relatos serão tratados com seriedade e confidencialidade.
-
 
 ### Comportamento Inaceitável
 
@@ -38,9 +36,13 @@ Como Relatar: Se você testemunhar ou for vítima de qualquer violação do Cód
 3.  Divulgação de informações pessoais sem consentimento prévio.
 4.  Qualquer forma de comportamento que viole as leis locais, nacionais ou internacionais.
 
-Consequências de Violação: Após a notificação de uma violação, os administradores da comunidade irão investigar o incidente de forma imparcial e tomar as medidas apropriadas. Dependendo da gravidade da violação, as consequências podem variar desde uma advertência formal até a exclusão permanente da comunidade.
+## Como Relatar
+Se você testemunhar ou for vítima de qualquer violação do Código de Conduta, por favor, relate o incidente para os administradores da comunidade ou envie um e-mail para [javanoroeste@gmail.com](mailto:javanoroeste@gmail.com). Todos os relatos serão tratados com seriedade e confidencialidade.
 
-###  [Contato com a equipe Java Noroeste](http://javanoroeste.com.br)
+## O que Acontecerá se as Pessoas que Quebrarem O Código de Conduta
+Após a notificação de uma violação, os administradores da comunidade irão investigar o incidente de forma imparcial e tomar as medidas apropriadas. Dependendo da gravidade da violação, as consequências podem variar desde uma advertência formal até a exclusão permanente da comunidade.
+
+###  [Contato com a equipe Java Noroeste](https://javanoroeste.com.br)
 Quando você vir um mau comportamento, não responda. Isso incentiva o mau comportamento ao reconhecê-lo, consome sua energia e desperdiça o tempo de todos. Você pode relatar um usuário ou conteúdo disruptivo para na seção contatos no site http://javanoroeste.com.br.
 
 Vamos colaborar para garantir que a Comunidade do Java Noroeste seja um ambiente seguro e inclusivo, onde todos se sintam confortáveis para participar e sejam valorizados, respeitando o tempo e esforço de cada pessoa envolvida.
